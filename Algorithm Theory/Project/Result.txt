@@ -1,0 +1,3 @@
+30-asis pagal dydi elementas: 
+50.0000000000000000
+Programos vykdymo laikas : 0.0 sec
